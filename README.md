@@ -1,0 +1,1 @@
+# extraindo-palavras-texto-de-um-texto-projeto-6
